@@ -76,7 +76,7 @@ Response::setMetaDescription("Put your content on the blockchain, experience tru
       <div class="boxes">
         <div class="box">
           <a href="https://spee.ch/ever-wonder-how-bitcoin-and-other" class="image" target="_blank">
-            <img src="/img/youtube/01@2x.jpg">
+              <video id="video1" width="100%" controls poster="/img/youtube/01@2x.jpg" src="https://spee.ch/1ac47b8b3def40a25850dc726a09ce23d09e7009/ever-wonder-how-bitcoin-and-other.mp4"/></video>
           </a>
           <div class="text">
             <p>@3Blue1Brown</p>
@@ -84,7 +84,7 @@ Response::setMetaDescription("Put your content on the blockchain, experience tru
         </div>
         <div class="box">
           <a href="https://spee.ch/3c96f32de285db6c04e80bd6f5fad573250541e9/casually-successful" class="image" target="_blank">
-            <img src="/img/youtube/02@2x.jpg">
+              <video width="100%" controls poster="/img/youtube/02@2x.jpg" src="https://spee.ch/3c96f32de285db6c04e80bd6f5fad573250541e9/casually-successful.mp4"/></video>
           </a>
           <div class="text">
             <p>@CasuallyExplained</p>
@@ -92,7 +92,7 @@ Response::setMetaDescription("Put your content on the blockchain, experience tru
         </div>
         <div class="box">
           <a href="https://spee.ch/the-historical-elements-of-wolfenstein" class="image"  target="_blank">
-            <img src="/img/youtube/03@2x.jpg">
+              <video width="100%" controls poster="/img/youtube/03@2x.jpg" src="https://spee.ch/8958c5d573d71f5c2d0c1bfdf752737ce39744cb/the-historical-elements-of-wolfenstein.mp4"/></video>
           </a>
           <div class="text">
             <p>@ColinsLastStand</p>
@@ -133,6 +133,7 @@ Response::setMetaDescription("Put your content on the blockchain, experience tru
       <div class="zigzag"></div>
       <h1>Sync &amp; Earn</h1>
       <p>LBRY offers a single-click sync process<br>for existing YouTubers</p>
+
       <div class="button">
         <a href="https://api.lbry.io/yt/connect?type=sync&immediate_sync=true">Sync now</a>
       </div>
